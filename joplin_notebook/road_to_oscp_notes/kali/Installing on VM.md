@@ -18,6 +18,7 @@ Installing on VM
 5. Do boring setup IT stuff.........
 7. After you login `sudo apt update && apt upgrade`
 8. Run the fixes here for virtual machines [pimpmykali](https://github.com/Dewalt-arch/pimpmykali)
+
 	-	Note: personal preferance I like segmented users, I pressed no on making root default 
 
 # General Setup
@@ -37,4 +38,3 @@ Installing on VM
 1. Foxy Proxy
 	1. options
 	2. add proxy for name "burp suite", on 127.0.0.1:8080
-
