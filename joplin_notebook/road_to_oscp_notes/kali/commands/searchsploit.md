@@ -1,0 +1,5 @@
+searchsploit
+
+```
+searchsploit <search query>
+```

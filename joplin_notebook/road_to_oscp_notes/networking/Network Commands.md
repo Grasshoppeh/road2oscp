@@ -10,6 +10,9 @@ Network Commands
 `ip n`
 `arp -a`
 
+**Can the local network to create an arp table**
+`sudo arpscan -l`
+
 **List out the routing**
  `ip r`
 `route -n`
